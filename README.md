@@ -1,1 +1,2 @@
-# Team-2-Titanic-data-set
+# team2-titanic-report
+Report of descriptive statistics on the "train.csv" dataset from the Titanic data on Kaggle.
